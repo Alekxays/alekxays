@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React.js, Express**
 
-- 👨‍💻 All of my projects are available at [*Working on it*](*Working on it*)
+- 👨‍💻 All of my projects are available at [*Working on it*]
 
 - 📫 How to reach me **alex.boissel@proton.me**
 
-- 📄 Know about my experiences [*Working on it too*](*Working on it too*)
+- 📄 Know about my experiences [*Working on it too*]
 
-- ⚡ Fun fact **I'm alive.**
+- ⚡ Fun fact *I'm alive.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
