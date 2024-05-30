@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-- 🌱 I’m currently learning **React.js, Express**
+- 🌱 I’m currently learning **Next.JS, React.js, Express**
 
 - 👨‍💻 All of my projects are available at [Working on it]
 
