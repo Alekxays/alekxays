@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.JS, Express, Angular**
 
-- 👨‍💻 All of my projects are available at [alexandreboissel.me](alexandreboissel.me)
+- 👨‍💻 All of my projects are available at [alexandreboissel.me](https://www.alexandreboissel.me)
 
 - 📫 How to reach me **hey@alexandreboissel.me**
 
