@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-- 🔭 I’m currently working on **RentMyPlace & Animeo**
+- 🔭 I’m currently working on **RentMyPlace**
 
 - 🌱 I’m currently learning **Next.JS, Express, Angular**
 
