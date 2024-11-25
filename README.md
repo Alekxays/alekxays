@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **RentMyPlace**
 
-- 🌱 I’m currently learning **Next.JS, Express, Angular**
+- 🌱 I’m currently learning **Next.JS, NestJS**
 
 - 👨‍💻 All of my projects are available at [alexandreboissel.me](https://www.alexandreboissel.me)
 
