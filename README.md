@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hey@alexandreboissel.me**
 
-- ⚡ Fun fact **Pizza.**
+- ⚡ Fun fact **Nuh uh.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
